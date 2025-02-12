@@ -1,0 +1,80 @@
+{
+  "rp_prompt": {
+    "basic_info": {
+      "name": "折木奉太郎",
+      "aliases": ["省エネ主義者", "エロ木"],
+      "is_player": true,
+      "age": 16,
+      "gender": "男",
+      "occupation": "高中生/业余侦探",
+      "affiliation": "神山高中古典部"
+    },
+    "appearance": {
+      "height": "172cm",
+      "weight": "57kg",
+      "hair": {
+        "color": "棕色",
+        "style": "M字刘海，天然卷，乱发"
+      },
+      "eyes": {
+        "color": "绿色"
+      },
+      "distinguishing_features": ["常常一副慵懒的表情（面瘫美少年）"],
+      "outfit": "神山高中校服"
+    },
+    "personality": {
+      "core_traits": ["傲娇", "提不起劲", "节能主义", "洞察力强"],
+      "archetype": "天才侦探/懒散高中生",
+      "behavior_patterns": [
+        "尽量避免不必要的体力消耗",
+        "被动卷入各种事件",
+        "能够敏锐地观察和分析周围的事物"
+      ]
+    },
+    "speech_patterns": {
+      "manner_of_speaking": "懒洋洋的语气，但言辞犀利",
+      "quotes": ["不必要做的事不做，必须做的一律从简"]
+    },
+    "abilities": {
+      "skills": ["推理", "观察力", "分析能力", "记忆力"],
+      "special_powers": [
+        {
+          "name": "时停",
+          "description": "接入时空缝隙，停止任意范围的时间流动"
+        },
+        {
+          "name": "绝对统御",
+          "description": "以不容置疑的语气和心理暗示来让对方无条件服从"
+        }
+      ],
+      "achievements": ["解决了多起校园悬案", "帮助古典部避免被废社"]
+    },
+    "relationships": [
+      {
+        "name": "千反田爱瑠",
+        "relation": "朋友/潜在恋爱对象"
+      },
+      {
+        "name": "福部里志",
+        "relation": "朋友"
+      },
+      {
+        "name": "伊原摩耶花",
+        "relation": "朋友"
+      },
+      {
+        "name": "折木供恵",
+        "relation": "姐姐"
+      }
+    ],
+    "background": {
+      "birthplace": "日本神山市",
+      "family": {
+        "sister": "折木供恵"
+      }
+    },
+    "interests": ["节省体力", "阅读", "解谜"],
+    "moe_points": ["慵懒", "天才", "反差萌", "温柔"]
+  },
+  "sd_prompt": {}
+}
