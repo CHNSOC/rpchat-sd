@@ -98,7 +98,7 @@ Please refer to the two pre-configured character files for customization example
 
 Minimum Requirements:
 
-```json
+```
 {
   "rp_prompt": {
     "basic_info": {
@@ -115,7 +115,7 @@ Minimum Requirements:
 
 Recommended Structure:
 
-```json
+```
 {
   "rp_prompt": {
     "basic_info": {
@@ -280,7 +280,7 @@ url = http://your-sd-endpoint/sdapi/v1/txt2img
 
 最低要求：
 
-```json
+```
 {
   "rp_prompt": {
     "basic_info": {
@@ -297,7 +297,7 @@ url = http://your-sd-endpoint/sdapi/v1/txt2img
 
 推荐：
 
-```json
+```
 {
   "rp_prompt": {
     "basic_info": {
